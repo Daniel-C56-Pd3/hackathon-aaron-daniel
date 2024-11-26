@@ -1,9 +1,0 @@
-Piano
-11/22/24
-1. I need to make a code where I can play a piano when I run the code. The first problem I faced was when the code said a error about pygame. I said chatgpt how to fix this problem and I suggest to use th code pip install pygame but it still didn't work so i uninstalled pygames and than install it again and it work. But, I guess today was not my day because the problem of the pygame thing came up again. Also, that I need to fixed a way for the code to play music but i don't know how to do that. 
-2. I used chatgpt to help make the nosie that didn't work and than I watch a video about it and it kinda worked. Also, I use chatgpt to fix my pygame problem . At first for my code I had no idea how to start it but than it gave me a code, (screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT)) pygame.display.set_caption("Virtual Piano"))
-3. My first question - How to make a game screen for my code in python. - I don't know waht this means can you eplain it better. - Why is this code not work but i worked yesterday.
-4. The problem was to use pip install pygame but it still didn't work. Than one day it worked until it didn't work today T_T. 
-5. ChatGPT DIDN'T work, I asked it to solve a problem like the pygames thing doesn't work are there any anyother ways to do this. IT GAVE ME THE SAME SOLUTION THAT DIDN'T WORK when I clearly stated IT DIDN'T WORK.
-6. I did run tests like after each section i did i ran a test, but chatgpt is so bad very time i asked it a question like how to fix the code it didn't help.
-7. I learned how to make a game screen and that pygames are fun. Oh also, I learn how to break a code in to little steps like first I did the game screen and than did the codes. It is also apparent that installing pygames on my computer is very hard and annoying.
